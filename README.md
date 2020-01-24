@@ -1,3 +1,3 @@
 # hackerrank
-code for various challenges on hackerrank
-partly used in programming and algorithm courses
+Code for various challenges on hackerrank
+partly used in first year programming and algorithm courses.
